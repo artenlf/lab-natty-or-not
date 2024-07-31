@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+### Lab Natty or Not
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ondas Sonoras: Navegando Pelos Desafios da Locução Moderna
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um vídeo motivacional com um monólogo de um locutor de rádio falando sobre os desafios e como adequar a profissão a modernidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Bing Copilot
+- ElevenLabs
+- Clipchamp
+- YouTube
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Primeiramente utilizei o Bing Copilot para criar o roteiro do monólogo com o seguinte prompt: "Você é um locutor de rádio profissional. Os tempos não estão mais favoráveis para rádios, pois o streaming, os podcasts e a inteligência artificial estão tomando fatias importantes de mercado. Por favor crie um monólogo em que você fala sobre perspectivas do rádio e locução e o que fazer para manter a glória e não sucumbir a modernidade.";
+- Depois utilizei o ElevenLabs para fazer a conversão de text-to-speech, utilizando uma das vozes personalizadas da plataforma para atingir resultados mais fiéis;
+- Em seguida, com os áudios salvos, utilizei o Clipchamp para montar os áudios, junto com uma trilha sonora e pequenos clipes parte da própria biblioteca gratuita da ferramenta da Microsoft;
+- Para finalizar, subi o vídeo para o YouTube e utilizei a ferramenta de IA da plataforma para gerar as legendas em Português.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Ondas Sonoras: Navegando Pelos Desafios da Locução Moderna](https://youtu.be/kSRHy9V33yA)
